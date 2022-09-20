@@ -220,7 +220,7 @@ There is one thing Wyatt had a point about, however:
 
 > The real underlying issue here may be to correct the systematic underassessment of the value of land rather than to introduce a higher nominal tax rate on land.
 
-If land is truly chronically underassessed, than simply making land assessments more accurate across the board will give you a similar effect to raising the rate of LVT, without touching the nominal tax rate or changing any laws.
+If land is truly chronically underassessed, then simply making land assessments more accurate across the board will give you a similar effect to raising the rate of LVT, without touching the nominal tax rate or changing any laws.
 
 This is because every property tax has a partial Land Value Tax hidden inside. The portion of the property tax that falls on buildings is bad because it incurs deadweight loss, but the portion that falls on land is an LVT and is good. Just by raising land assessments close to their true value, you are effectively increasing the rate of the hidden LVT, without increasing the amount of tax that falls on buildings.
 
